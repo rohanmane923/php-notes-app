@@ -1,3 +1,3 @@
 <?php
-echo "Hello from CI/CD Pipeline! make changes 2 ";
+echo "Hello from CI/CD Pipeline! make changes 1 ";
 ?>
